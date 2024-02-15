@@ -1,0 +1,33 @@
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.deps.json
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.dll
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.pdb
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.AssemblyInfo.cs
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.dll
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\refint\Logica_De_Negocio.dll
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.pdb
+C:\Users\maria\source\repos\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\ref\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.deps.json
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.pdb
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.AssemblyInfo.cs
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\refint\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.pdb
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\ref\Logica_De_Negocio.dll
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.deps.json
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.dll
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Debug\net7.0\Logica_De_Negocio.pdb
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.dll
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\refint\Logica_De_Negocio.dll
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\Logica_De_Negocio.pdb
+C:\Users\fabri\OneDrive\Documentos\ORT Analista Programador\SEMESTRE 2\P2\OBLIGATORIO2\E-159808-3\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Debug\net7.0\ref\Logica_De_Negocio.dll

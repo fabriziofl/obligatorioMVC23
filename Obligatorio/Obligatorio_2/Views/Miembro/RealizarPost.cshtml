@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Nuevo Post";
+}
+
+<div class="card-header bg-secondary text-white">
+    <h2 class="mb-0">Nuevo Post</h2>
+</div>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <form method="post">
+                        <div class="form-group">
+                            <label class="py-2" for="nombre">Titulo:</label>
+                            <input type="text" class="form-control" id="titulo" name="titulo" placeholder="Titulo">
+                        </div>
+                        <div class="form-group">
+                            <label class="py-2" for="texto">Texto:</label>
+                            <input type="text" class="form-control" id="texto" name="texto" placeholder="Texto">
+                        </div>
+                        <div class="form-group">
+                            <label class="py-2" for="email">Imagen:</label>
+                            <input type="text" class="form-control" id="imagen" name="imagen" placeholder="Imagen">
+                        </div>
+                        <div class="form-group d-flex align-items-center gap-3">
+                            <label class="form-check-label py-2" for="privado">Privado:</label>
+                            <input type="checkbox" class="form-check-input" id="privado" name="privado" value="true">
+                        </div>
+                        <button type="submit" class="btn btn-primary mt-3">Crear Nuevo Post</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (ViewBag.Message != null)
+{
+    <div class="mt-5 alert alert-success">@ViewBag.Message</div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="mt-5 alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+

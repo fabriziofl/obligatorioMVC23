@@ -1,0 +1,9 @@
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Obligatorio_2.exe
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Obligatorio_2.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Obligatorio_2.deps.json
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Obligatorio_2.runtimeconfig.json
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Obligatorio_2.pdb
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\obj\Release\net8.0\PubTmp\Out\Logica_De_Negocio.pdb

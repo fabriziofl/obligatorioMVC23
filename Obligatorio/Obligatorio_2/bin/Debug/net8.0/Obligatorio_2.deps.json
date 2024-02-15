@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Obligatorio_2/1.0.0": {
+        "dependencies": {
+          "Logica_De_Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Obligatorio_2.dll": {}
+        }
+      },
+      "Logica_De_Negocio/1.0.0": {
+        "runtime": {
+          "Logica_De_Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obligatorio_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logica_De_Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

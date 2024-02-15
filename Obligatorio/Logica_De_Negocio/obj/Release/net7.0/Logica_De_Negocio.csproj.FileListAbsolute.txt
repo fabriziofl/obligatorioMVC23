@@ -1,0 +1,11 @@
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Release\net7.0\Logica_De_Negocio.deps.json
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Release\net7.0\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\bin\Release\net7.0\Logica_De_Negocio.pdb
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\Logica_De_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\Logica_De_Negocio.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\Logica_De_Negocio.AssemblyInfo.cs
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\Logica_De_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\refint\Logica_De_Negocio.dll
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\Logica_De_Negocio.pdb
+C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Logica_De_Negocio\obj\Release\net7.0\ref\Logica_De_Negocio.dll

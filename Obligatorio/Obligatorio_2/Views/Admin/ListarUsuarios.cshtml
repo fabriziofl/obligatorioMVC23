@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Listar Usuarios";
+}
+
+<div class="card-header bg-secondary text-white">
+    <h2 class="mb-0">Listado de Usuarios</h2>
+</div>
+
+@if (ViewBag.Usuarios.Count == 0)
+{
+    <div class="mt-5">Lista de Miembros Vacia</div>
+}
+
+@if (ViewBag.Usuarios.Count > 0)
+{
+    @for (int i = 0; i < ViewBag.Usuarios.Count; i++)
+    {
+        <div class ="container mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="w-25">Nombre</th>
+                        <th class="w-25">Apellido</th>
+                        <th class="w-25">Fecha de Nacimiento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="w-25">@ViewBag.Usuarios[i].Nombre</td>
+                        <td class="w-25">@ViewBag.Usuarios[i].Apellido</td>
+                        <td class="w-25">@ViewBag.Usuarios[i].FechaNac</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    }
+}

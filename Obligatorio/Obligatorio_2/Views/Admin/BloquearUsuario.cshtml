@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Bloquear Usuario";
+}
+
+<div class="card-header bg-secondary text-white">
+    <h2 class="mb-0">Bloquear Usuario</h2>
+</div>
+
+@if (ViewBag.Usuarios.Count == 0)
+{
+    <div class="mt-5">Lista Vacia</div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="mt-5 alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+
+@if (ViewBag.Message != null)
+{
+    <div class="mt-5 alert alert-success">@ViewBag.Message</div>
+}
+
+@if (ViewBag.Usuarios.Count > 0)
+{
+    @for (int i = 0; i < ViewBag.Usuarios.Count; i++)
+    {
+        <div class="container mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="w-25">Nombre</th>
+                        <th class="w-25">Apellido</th>
+                        <th class="w-25">Fecha de Nacimiento</th>
+                        <th class="w-25"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="w-25">@ViewBag.Usuarios[i].Nombre</td>
+                        <td class="w-25">@ViewBag.Usuarios[i].Apellido</td>
+                        <td class="w-25">@ViewBag.Usuarios[i].FechaNac</td>
+                        <td class="w-25">
+                            <form method="post" class="form-inline">
+                                <input type="hidden" name="email" value="@ViewBag.Usuarios[i].Email" />
+                                <input type="submit" class="btn btn-danger" value="Bloquear Usuario">
+                            </form>
+                        <td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    }
+}

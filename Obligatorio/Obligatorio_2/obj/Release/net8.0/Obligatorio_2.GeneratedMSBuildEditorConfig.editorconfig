@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Obligatorio_2
+build_property.RootNamespace = Obligatorio_2
+build_property.ProjectDir = C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\maria\Desktop\Mariano\ORT\Programacion 2\Obligatorio\Obligatorio\Obligatorio_2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Admin/BloquearPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvcXVlYXJQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Admin/BloquearUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvcXVlYXJVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Admin/ListarUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdGFyVXN1YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Home/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/EnviarSolicitud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xFbnZpYXJTb2xpY2l0dWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/ListarPorTextoyNumero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xMaXN0YXJQb3JUZXh0b3lOdW1lcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/Reaccionar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xSZWFjY2lvbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/RealizarComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xSZWFsaXphckNvbWVudGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/RealizarPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xSZWFsaXphclBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/VerPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xWZXJQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Miembro/VerSolicitudes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xWZXJTb2xpY2l0dWRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Usuario/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/Mariano/ORT/Programacion 2/Obligatorio/Obligatorio/Obligatorio_2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-14o6f93932

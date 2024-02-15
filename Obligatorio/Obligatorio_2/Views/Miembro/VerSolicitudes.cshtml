@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Solicitudes de Amistad";
+}
+
+<div class="card-header bg-secondary text-white">
+    <h2 class="mb-0">Solicitudes de Amistad</h2>
+</div>
+
+@if (ViewBag.Solicitudes.Count == 0)
+{
+    <div class="fs-2 mt-5 text-center">No Existen Solicitudes de Amistad</div>
+}
+
+@if (ViewBag.Message != null)
+{
+    <div class="mt-5 alert alert-success">@ViewBag.Message</div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="mt-5 alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+
+@for (int i = 0; i < ViewBag.Solicitudes.Count; i++)
+{
+    <div class="container mt-5">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th class="w-25">Nombre</th>
+                    <th class="w-25">Apellido</th>
+                    <th class="w-25">Estado</th>
+                    <th class="w-25"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="w-25 text-truncate">@ViewBag.Solicitudes[i].Solicitante.Nombre</td>
+                    <td class="w-25 text-truncate">@ViewBag.Solicitudes[i].Solicitante.Apellido</td>
+                    <td class="w-25 text-truncate">@ViewBag.Solicitudes[i].EstadoDeSolicitud</td>
+                    <td class="w-25">
+                        <form method="post" class="form-inline">
+                            <input type="hidden" name="id" value="@ViewBag.Solicitudes[i].Id" />
+                            <button type="submit" name="estado" value="APROBADA" class="btn btn-success mt-3">Aceptar</button>
+                            <button type="submit" name="estado" value="RECHAZADA" class="btn btn-danger mt-3">Rechazar</button>
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}

@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Ver Posts";
+}
+
+<div class="card-header bg-secondary text-white">
+    <h2 class="mb-0">Lista de Posts</h2>
+</div>
+
+@if (ViewBag.Posts.Count == 0)
+{
+    <div class="fs-2 mt-5 text-center">No Hay Ningun Post Disponible para Mostrar</div>
+}
+
+@if (ViewBag.Posts.Count > 0)
+{
+    @for (int i = 0; i < ViewBag.Posts.Count; i++)
+    {
+        <div class="container mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="w-25">Titulo</th>
+                        <th class="w-25">Contenido</th>
+                        <th class="w-25">Like</th>
+                        <th class="w-25">Dislike</th>
+                        <th class="w-25">VA</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="w-25">@ViewBag.Posts[i].Titulo</td>
+                        <td class="w-25">@ViewBag.Posts[i].Texto</td>
+                        <td class="w-25">@ViewBag.Posts[i].CantLike()</td>
+                        <td class="w-25">@ViewBag.Posts[i].CantDisLike()</td>
+                        <td class="w-25">@ViewBag.Posts[i].CalcularVA()</td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4>Comentarios del Post Id : @ViewBag.Posts[i].Id</h4>
+            @if (ViewBag.Posts[i].Comentarios.Count > 0)
+            {
+                @for (int j = 0; j < ViewBag.Posts[i].Comentarios.Count; j++)
+                {
+                    <div class="container mt-5">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th class="w-25">Titulo</th>
+                                    <th class="w-25">Contenido</th>
+                                    <th class="w-25">Like</th>
+                                    <th class="w-25">Dislike</th>
+                                    <th class="w-25">VA</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="w-25">@ViewBag.Posts[i].Comentarios[j].Titulo</td>
+                                    <td class="w-25">@ViewBag.Posts[i].Comentarios[j].Texto</td>
+                                    <td class="w-25">@ViewBag.Posts[i].Comentarios[j].CantLike()</td>
+                                    <td class="w-25">@ViewBag.Posts[i].Comentarios[j].CantDisLike()</td>
+                                    <td class="w-25">@ViewBag.Posts[i].Comentarios[j].CalcularVA()</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                }
+            }
+        </div>
+    }
+}

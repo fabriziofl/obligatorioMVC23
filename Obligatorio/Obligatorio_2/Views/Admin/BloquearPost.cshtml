@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Bloquear Post";
+}
+
+<div class="card-header bg-secondary text-white">
+    <h2 class="mb-0">Bloquear Post</h2>
+</div>
+@if (ViewBag.Posts.Count == 0)
+{
+    <div class="fs-2 mt-5 text-center">No Hay Ningun Post Disponible para Mostrar</div>
+}
+
+@if (ViewBag.Message != null)
+{
+    <div class="mt-5 alert alert-success">@ViewBag.Message</div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="mt-5 alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+@if (ViewBag.Posts.Count > 0)
+{
+    @for (int i = 0; i < ViewBag.Posts.Count; i++)
+    {
+        <div class="container mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="w-25">Id</th>
+                        <th class="w-25">Titulo</th>
+                        <th class="w-25">Autor</th>
+                        <th class="w-25">Texto</th>
+                        <th class="w-25"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="w-25">@ViewBag.Posts[i].Id</td>
+                        <td class="w-25">@ViewBag.Posts[i].Titulo</td>
+                        <td class="w-25">@ViewBag.Posts[i].Autor.Nombre</td>
+                        <td class="w-25">@ViewBag.Posts[i].Texto</td>
+                        <td class="w-25">
+                            <form method="post" class="form-inline">
+                                <input type="hidden" name="id" value="@ViewBag.Posts[i].Id" />
+                                <input type="submit" class="btn btn-danger" value="Banear Post">
+                            </form>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    }
+}

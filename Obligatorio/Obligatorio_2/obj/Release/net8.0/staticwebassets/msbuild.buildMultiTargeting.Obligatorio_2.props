@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Obligatorio_2.props" />
+</Project>
